@@ -1,0 +1,62 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "studentID": "6630200390",
+      "name": "ปุณณวิช ภูประเสริฐ",
+      "major": "วิทยาการคอมพิวเตอร์",
+      "school": "โรงเรียนเมรี่อิมมาคุเลตคอนแวนต์"
+    }
+  ],
+  "courses": [
+    {
+      "id": "d194",
+      "code": "01418361",
+      "name": "Introduction to Computer Vision",
+      "credit": 3,
+      "grade": "A"
+    },
+    {
+      "id": "342a",
+      "code": "01418211",
+      "name": "Software Construction",
+      "credit": 3,
+      "grade": "C+"
+    },
+    {
+      "id": "b52a",
+      "code": "01355108",
+      "name": "English and Culture through Songs",
+      "credit": 3,
+      "grade": "A"
+    },
+    {
+      "id": "8c18",
+      "code": "01999012",
+      "name": "Health for Life",
+      "credit": 3,
+      "grade": "A"
+    },
+    {
+      "id": "e94a",
+      "code": "01418231",
+      "name": "Data Structures and Algorithms",
+      "credit": 3,
+      "grade": "B+"
+    },
+    {
+      "id": "3863",
+      "code": "01418233",
+      "name": "Computer Architecture",
+      "credit": 3,
+      "grade": "B+"
+    },
+    {
+      "id": "0140",
+      "code": "01174231",
+      "name": "Introduction to Recreation",
+      "credit": 2,
+      "grade": "B"
+    }
+  ]
+}
